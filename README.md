@@ -25,6 +25,7 @@
 <a href="https://www.linkedin.com/in/anis-belaggoun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:aniswalidbelaggoun@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/BelaggounWalid"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Ekoalu"><img src="https://github.com/Ekoalu.png" height="20" alt="Ekoalu"/></a>
 <img src="https://komarev.com/ghpvc/?username=BelaggounWalid&label=Views&color=2a7fae&style=flat-square" alt="views"/>
 
 <br/><br/>

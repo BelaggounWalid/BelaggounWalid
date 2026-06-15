@@ -8,7 +8,7 @@
      - .github/workflows/snake.yml inclus (génère le serpent)
   🐍 Après le 1er run de l'Action (onglet Actions → Run workflow),
      la branche "output" est créée et le serpent s'affiche.
-  🔗 Vérifie l'URL LinkedIn (déduite de @anisBelaggoun — à confirmer).
+  🔗 LinkedIn confirmé : linkedin.com/in/anisBelaggoun
   🔒 Téléphone volontairement omis (privé).
   ════════════════════════════════════════════════════════════════
 -->

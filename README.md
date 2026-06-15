@@ -229,7 +229,7 @@ French — native &nbsp;·&nbsp; English — C2 (LanguageCert, 2025)
 
 ### GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BelaggounWalid&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38BDF8&icon_color=2a7fae&text_color=8b949e&bg_color=0d1117" alt="stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BelaggounWalid&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=2a7fae&text_color=8b949e&bg_color=0d1117" alt="stats" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelaggounWalid&layout=compact&hide_border=true&langs_count=8&title_color=38BDF8&text_color=8b949e&bg_color=0d1117" alt="langs" />
 
 <br/><br/>

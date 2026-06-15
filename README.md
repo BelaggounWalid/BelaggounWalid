@@ -3,7 +3,7 @@
   README DE PROFIL GITHUB — Anis BELAGGOUN (@BelaggounWalid)
   ────────────────────────────────────────────────────────────────
   ✅ Repo public "BelaggounWalid" → s'affiche sur le profil.
-  ✅ LinkedIn : linkedin.com/in/anisBelaggoun
+  ✅ LinkedIn : linkedin.com/in/anis-belaggoun
   ✅ Email commit : aniswalidbelaggoun@gmail.com
   🐍 Snake généré par .github/workflows/snake.yml (branche output).
   ════════════════════════════════════════════════════════════════
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anisBelaggoun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/anis-belaggoun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:aniswalidbelaggoun@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/BelaggounWalid"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=BelaggounWalid&label=Views&color=2a7fae&style=flat-square" alt="views"/>
@@ -231,6 +231,10 @@ French — native &nbsp;·&nbsp; English — C2 (LanguageCert, 2025)
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BelaggounWalid&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=2a7fae&text_color=8b949e&bg_color=0d1117" alt="stats" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelaggounWalid&layout=compact&hide_border=true&langs_count=8&title_color=38BDF8&text_color=8b949e&bg_color=0d1117" alt="langs" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BelaggounWalid&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=2a7fae&hide_border=true&custom_title=Activit%C3%A9%20de%20contribution" alt="activity graph" />
 
 <br/><br/>
 
